@@ -1,0 +1,27 @@
+* {
+    font-family: tahoma;
+    margin: 25px;
+}
+body {
+    background-color: rgb(158, 162, 162);
+}
+h1 {
+    color: crimson; 
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    padding: 15px;
+    border: 10px;
+    border-style: ridge;
+    border-color: brown;
+}
+p {
+    color: indigo;
+    text-align: justify;
+    border-radius: 8px;
+    border-style: solid;
+    padding: 10px;
+}
+img {
+    width: 35%;
+}
